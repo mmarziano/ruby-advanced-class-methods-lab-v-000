@@ -49,6 +49,8 @@ end
     song.name = name
     artist_name = filename.split(" - ")[0] 
     song.artist_name = artist_name
+    song.name
+    artist.name
   end 
 
   
