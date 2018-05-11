@@ -64,7 +64,7 @@ end
   end 
   
   def self.destroy_all
-    @@all.delete
+    @@all.clear
   end
   
   
