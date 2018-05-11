@@ -50,7 +50,7 @@ end
     artist_name = filename.split(" - ")[0] 
     song.artist_name = artist_name
     song.name
-    song.artist_name.name
+    song.artist_name
   end 
 
   
